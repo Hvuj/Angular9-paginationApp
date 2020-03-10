@@ -1,0 +1,38 @@
+{
+  "heroes": [{
+      "id": 1,
+      "name": "Iron Man",
+      "fullName": "Tony Stark",
+      "placeOfBirth": "New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "fullName": "Tony Stark",
+      "placeOfBirth": "New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 3,
+      "name": "Iron Man",
+      "fullName": "Tony Stark",
+      "placeOfBirth": "New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "fullName": "Tony Stark",
+      "placeOfBirth": "New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 5,
+      "name": "Iron Man",
+      "fullName": "Tony Stark",
+      "placeOfBirth": "New York",
+      "publisher": "Marvel Comics"
+    }
+  ]
+}
